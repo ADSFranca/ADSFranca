@@ -17,7 +17,7 @@ O curso forma profissionais capacitados para:
 ## 🧠 O que você vai encontrar aqui
 
 - 📦 Repositórios de projetos acadêmicos
-- 💻 Trabalhos de conclusão de curso (TCCs)
+- 💻 Trabalhos de conclusão de curso (TCCs) e Projetos Interdisciplinares (PI)
 - 🤖 Iniciativas de pesquisa aplicada e inovação
 - 🎯 Desafios de programação e eventos (ex: Maratona InterFatecs, Hackathons)
 - 🛠️ Ferramentas e templates úteis
