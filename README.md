@@ -1,6 +1,6 @@
 # 👨‍💻 Análise e Desenvolvimento de Sistemas – FATEC Franca
 
-Bem-vindo ao repositório oficial do curso de **Análise e Desenvolvimento de Sistemas** da [FATEC Franca](https://fatecfranca.cps.sp.gov.br)! 🚀
+Bem-vindo ao repositório oficial do curso de **Análise e Desenvolvimento de Sistemas** da [FATEC Franca](https://site.fatecfranca.edu.br/cursos/ads)! 🚀
 
 Aqui você encontra projetos desenvolvidos por estudantes e professores ao longo das disciplinas, eventos, maratonas de programação, iniciativas de extensão e pesquisa aplicada. Este espaço é dedicado à **prática**, **colaboração** e **inovação** em tecnologia.
 
@@ -33,5 +33,5 @@ Se você é aluno, ex-aluno ou professor e quer compartilhar seu projeto, entre 
 ---
 
 📍 **FATEC Franca - Curso de Análise e Desenvolvimento de Sistemas**  
-📬 [Visite nosso site](https://fatecfranca.cps.sp.gov.br)  
-📧 contato: ads@fatecfranca.edu.br
+📬 [Visite nosso site](https://site.fatecfranca.edu.br/cursos/ads)  
+📧 contato: f109coord.ads@cps.sp.gov.br
