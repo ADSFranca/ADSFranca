@@ -31,6 +31,7 @@ Promover um ensino técnico de excelência, voltado às demandas do mercado e da
 Se você é aluno, ex-aluno ou professor e quer compartilhar seu projeto, entre em contato com a coordenação ou abra um pull request com sua ideia.
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adsfranca)](https://github.com/adsfranca/github-readme-stats)
 
 📍 **FATEC Franca - Curso de Análise e Desenvolvimento de Sistemas**  
 📬 [Visite nosso site](https://site.fatecfranca.edu.br/cursos/ads)  
